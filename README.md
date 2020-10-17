@@ -1,0 +1,1 @@
+I did a shopping list with javascript by following mozilla documentation
